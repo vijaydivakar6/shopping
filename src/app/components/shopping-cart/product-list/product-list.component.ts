@@ -1,4 +1,4 @@
-
+import { WishlistService } from 'src/app/services/wishlist.service';
 import { ProductService } from 'src/app/services/product.service';
 import { Component, OnInit } from '@angular/core';
 import {Product} from 'src/app/models/product'
@@ -12,13 +12,26 @@ import {Product} from 'src/app/models/product'
 export class ProductListComponent implements OnInit {
   
   productList:Product[]=[]
-  constructor(private productService:ProductService) { }
+  wishlist:number[]=[]
+  constructor(private productService:ProductService ,private wishlistService:WishlistService) { }
 
   ngOnInit() {
- this.productService.getProducts().subscribe((products)=>{
-  this.productList =products;
- })
- 
+  this.loadProducts()
+  this.loadWishlist();
+  }
+
+  loadProducts(){
+    this.productService.getProducts().subscribe((products)=>{
+      this.productList =products;
+      
+     })
+  }
+
+  loadWishlist(){
+    this.wishlistService.getWishList().subscribe(productIds =>{
+      this.wishlist=productIds
+      console.log(productIds)
+    })
   }
 
 }

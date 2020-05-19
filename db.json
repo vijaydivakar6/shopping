@@ -1,0 +1,159 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Honey Cake 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when ",
+      "imageUrl": "https://i.ytimg.com/vi/SUHtXAA36U8/maxresdefault.jpg",
+      "price": 199
+    },
+    {
+      "id": 2,
+      "name": "Honey Cake 2",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old",
+      "imageUrl": "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2017/12/eggless-honey-cake-recipe-1.jpg",
+      "price": 299
+    },
+    {
+      "id": 3,
+      "name": "Honey Cake 3",
+      "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum",
+      "imageUrl": "https://i1.wp.com/cookingfromheart.com/wp-content/uploads/2018/01/Eggless-Honey-Cake-8.jpg?resize=1024%2C680&ssl=1",
+      "price": 399
+    },
+    {
+      "id": 4,
+      "name": "Honey Cake 4",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ",
+      "imageUrl": "https://rakskitchen.net/wp-content/uploads/2015/11/Honey-cake-reccipe.jpg",
+      "price": 499
+    },
+    {
+      "id": 5,
+      "name": "Honey Cake 5",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum,",
+      "imageUrl": "https://veenasvegnationcom8378b.zapwp.com/q:intelligent/retina:false/webp:false/w:480/url:https://veenasvegnation.com/wp-content/uploads/2017/04/honey-cake-1.jpg",
+      "price": 599
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 5
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Honey Cake 1",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when ",
+        "imageUrl": "https://i.ytimg.com/vi/SUHtXAA36U8/maxresdefault.jpg",
+        "price": 199
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Honey Cake 2",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old",
+        "imageUrl": "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2017/12/eggless-honey-cake-recipe-1.jpg",
+        "price": 299
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Honey Cake 2",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old",
+        "imageUrl": "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2017/12/eggless-honey-cake-recipe-1.jpg",
+        "price": 299
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Honey Cake 3",
+        "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum",
+        "imageUrl": "https://i1.wp.com/cookingfromheart.com/wp-content/uploads/2018/01/Eggless-Honey-Cake-8.jpg?resize=1024%2C680&ssl=1",
+        "price": 399
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Honey Cake 1",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when ",
+        "imageUrl": "https://i.ytimg.com/vi/SUHtXAA36U8/maxresdefault.jpg",
+        "price": 199
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Honey Cake 3",
+        "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum",
+        "imageUrl": "https://i1.wp.com/cookingfromheart.com/wp-content/uploads/2018/01/Eggless-Honey-Cake-8.jpg?resize=1024%2C680&ssl=1",
+        "price": 399
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Honey Cake 5",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum,",
+        "imageUrl": "https://veenasvegnationcom8378b.zapwp.com/q:intelligent/retina:false/webp:false/w:480/url:https://veenasvegnation.com/wp-content/uploads/2017/04/honey-cake-1.jpg",
+        "price": 599
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Honey Cake 4",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ",
+        "imageUrl": "https://rakskitchen.net/wp-content/uploads/2015/11/Honey-cake-reccipe.jpg",
+        "price": 499
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Honey Cake 3",
+        "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum",
+        "imageUrl": "https://i1.wp.com/cookingfromheart.com/wp-content/uploads/2018/01/Eggless-Honey-Cake-8.jpg?resize=1024%2C680&ssl=1",
+        "price": 399
+      },
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
